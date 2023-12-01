@@ -9,7 +9,7 @@ function App() {
         <CurrentLocation />
       </div>
       <div className="footer-info">
-         This web is design and coded  by{" "}
+         This Website is design and coded  by{" "}
           Arun Kharwar                </div>
           <div className="footer-info">
          Thanks for visiting{" "}
